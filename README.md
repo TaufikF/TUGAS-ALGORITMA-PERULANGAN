@@ -52,8 +52,8 @@ int main() {
 	double kota_a_grow, kota_b_grow;
 	
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
-	cout << "~~ Menghitung Bilangan Pangkat 3 Yang Diperoleh ~~\n";
-	cout << "~~       Dengan Penjumlahan Suku-Sukunya        ~~\n";
+	cout << "~~    Menghitung Pada Tahun Keberapa Jumlah 	~~\n";
+	cout << "~~  Penduduk Kota A Lebih Banyak Dari Kota B   ~~\n";
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
 	cout << "~~ NAMA \t:	M TAUFIK FADILLAH       ~~\n";
 	cout << "~~ NIM  \t: 	0702212109              ~~\n";
